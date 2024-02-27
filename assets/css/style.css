@@ -1,21 +1,31 @@
-/*Wilcard selector*/
+/* Wilcard selector */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/*Header*/
+/* General styles of the page */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+}
+
+/* Header */
 header {
-    background-color: #CC313D;
+    background-color: #962E2A;
 }
 
-/*Main Content*/
+/* Main Content */
 main {
-    background-color: #F7C5CC;
+    background-color: #E3867D;
+    /* push footer to bottom */
+    flex: 1 0 auto;
 }
 
-/*Footer*/
+/* Footer */
 footer {
-    background-color: #CC313D;
+    background-color: #CEE6F2;
 }
