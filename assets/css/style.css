@@ -1,0 +1,21 @@
+/*Wilcard selector*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*Header*/
+header {
+    background-color: #CC313D;
+}
+
+/*Main Content*/
+main {
+    background-color: #F7C5CC;
+}
+
+/*Footer*/
+footer {
+    background-color: #CC313D;
+}
