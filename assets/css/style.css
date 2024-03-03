@@ -24,6 +24,10 @@ header {
     background-color: #962E2A;
 }
 
+h1 {
+    font-family: "Poppins", sans-serif;
+}
+
 /* Main Content */
 main {
     background-color: #E3867D;
