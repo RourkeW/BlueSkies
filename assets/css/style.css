@@ -19,7 +19,7 @@ body {
     font-style: normal;
 }
 
-h1 ,h2 ,h3 {
+h1 {
     font-family: "Poppins", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -132,6 +132,29 @@ main {
     height: 200px;
     width: 200px;
     border-radius: 50%;
+}
+
+#container-about {
+    padding: 20px;
+    background-color: #1E2761;
+    color: #ffffff;
+}
+
+#container-blake {
+    background-color: #408EC6;
+}
+
+#container-gerry {
+    background-color: #7A2048;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    padding: 10px;
 }
 
 /* Media query for tablets and larger */
