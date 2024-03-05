@@ -85,10 +85,16 @@ nav {
 }
 /* Main Content */
 main {
-    background-color: #E3867D;
     /* push footer to bottom */
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+/* Hero image styles */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/HeroImageBlueSkies.jpg") no-repeat center center/cover;
 }
 
 /* Footer */
