@@ -132,6 +132,8 @@ main {
     height: 200px;
     width: 200px;
     border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 #container-about {
@@ -148,6 +150,10 @@ main {
     background-color: #7A2048;
 }
 
+#gerry {
+    float: right;
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -155,6 +161,20 @@ a {
 
 img {
     padding: 10px;
+}
+
+#container-blake, #container-gerry {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
 }
 
 /* Media query for tablets and larger */
@@ -196,6 +216,7 @@ img {
         width: 300px;
         right: 50px;
     }
+
 }
 
 /* Media query for laptops and larger */
