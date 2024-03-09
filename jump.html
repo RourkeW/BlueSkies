@@ -34,7 +34,42 @@
         </nav>
     </header>
 
-    <main>Main Content</main>
+    <main>
+        <section id="signup">
+            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                <h2>Jump with us Today!</h2>
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <br>
+                <fieldset>
+                    <legend>Packages</legend>
+                <div class="radio-buttons">
+                    <div>
+                        <label for="tandem-only">Tandem (Jump only)</label>
+                        <input type="radio" name="package" id="tandem-only" value="tandem-only" required checked>
+                    </div>
+                    <br>
+                        <div>
+                        <label for="tandem-cam"></i>Tandem (with Camera)</label>
+                        <input type="radio" name="package" id="tandem-cam" value="tandem-cam" required>
+                    </div>
+                    <br>
+                    <div>
+                        <label for="sports">Sports jumper</label>
+                        <input type="radio" name="package" id="sports" value="sports" required>
+                    </div>
+                    </fieldset>
+                </div>
+                <button type="submit" class="join-button">Book Now!</button>
+            </form>
+        </section>
+    </main>
     <footer>
         <ul id="social-networks">
             <li><a href="https://www.whatsapp.com/" target="_blank" rel="noopener"
