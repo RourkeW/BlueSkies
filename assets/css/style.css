@@ -95,10 +95,10 @@ nav {
     display: none;
 }
 
-
 .nav-toggle-label {
     font-size: 2rem;
 }
+
 /* Main Content */
 main {
     /* push footer to bottom */
@@ -182,7 +182,6 @@ img {
 }
 
 /* Gallery Styles */
-
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -201,7 +200,7 @@ main {
 }
 
 #signup {
-    background-image: url(../images/Jumpbackgroundimage.jpg);
+    background-image: url(../images/jumpbackground.avif);
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -298,7 +297,6 @@ fieldset {
     #photos {
         column-count: 3;
     }
-
 }
 
 /* Media query for laptops and larger */
