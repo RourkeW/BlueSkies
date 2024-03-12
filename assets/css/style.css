@@ -197,6 +197,8 @@ img {
 #photos img {
     width: 100%;
     line-height: 1em;
+    /* my masonry style had some padding included so line-height css didn't work, I added this in after a look on devtools */
+    padding: 0;
 }
 
 #photos {
