@@ -110,7 +110,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/HeroImageBlueSkies.jpg") no-repeat center center/cover;
+    background: url(../images/heroImageblueskies.jpg) no-repeat center center/cover;
 }
 
 /* Footer */
@@ -243,6 +243,11 @@ fieldset {
 .join-button:hover {
     background-color: #fafafa;
     color: #454b1b;
+}
+
+/* Pushing the why jump with us section towards the middle of the screen saving reader from reading whole page left to right */
+#container-intro {
+    padding: 0 30px;
 }
 
 /* Media query for large phones */
