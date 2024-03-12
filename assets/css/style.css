@@ -313,3 +313,21 @@ fieldset {
         column-count: 4;
     }
 }
+
+/* media queries for containers Gerry and Blake for small phone screens */
+@media screen and (min-width: 550px)  {
+
+    #container-blake {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    }
+
+    #container-gerry {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    }
+}
