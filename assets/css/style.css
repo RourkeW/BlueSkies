@@ -140,12 +140,14 @@ main {
     padding: 20px;
     background-color: #1E2761;
     color: #ffffff;
+    font-size: 22px;
 }
 
 #container-blake {
     background-color: #408EC6;
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
+    font-size: 19px;
 }
 
 #container-gerry {
@@ -153,6 +155,7 @@ main {
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
     text-align: left;
+    font-size: 19px;
 }
 
 #gerry {
