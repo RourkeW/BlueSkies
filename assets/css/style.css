@@ -233,6 +233,7 @@ main {
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
+    top: 0;
 }
 
 #signup-form {
@@ -287,7 +288,7 @@ fieldset {
 }
 
 /* Media query for tablets and larger */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 850px) {
     /* Header */
     nav {
         display: block;
@@ -313,6 +314,10 @@ fieldset {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
+    }
+
+    #signup {
+        top: 0;
     }
 
     /* Main content push down for larger header*/
@@ -353,6 +358,15 @@ fieldset {
     flex-direction: row;  
     flex-wrap: nowrap;
     justify-content: space-between;
+    }
+
+    /* I added this to make the webpage use the space a bit better and not spread the text so much, this change on a tiny screen where the image shiufts above */
+    #blake-text {
+        padding-left: 100px;
+    }
+
+    #gerry-text {
+        padding-left: 80px;
     }
 
     #container-gerry {
