@@ -41,3 +41,18 @@ My Project is a static website of a South African skydiving club advertising sky
   * [Acknowledgments](#acknowledgments)
 
 ---
+##Target Audience
+
+The target audience of this website is thrill-seeking tourists or experienced skydivers in the Cape Town area whoa re looking for somewhere convenient and beautiful to skydive. The location of the Drakenstein Mountain range and the experienced tandem-masters provide comfort and a sense of security, which is the main selling points of the club. The website includes a home image ofa  large group of skydivers in a formation along with some information explaining why someone might join, accompanied by some of the more senior experienced staff profiles to set potential customers mind's at ease. Finally there is a map showing location of the airfield, . The next page includes a masonry style gallery section in which many images of beginner activities and well experienced skydiving actions are being performed to try and grab all types of skydivers. The final page allows potential customers to see which packages are available and book now!
+
+##User Stories
+
+###As a first time skydiver I would like to feel safe
+The character profiles of both Gerry and Blake provide satisfaction that someone who knows nothing about skydiving would be in good hands, both have extensive experience in skydiving, running multiple previous skydiving clubs and having some of the highest jump numbers in the whole of South Africa.
+
+###Make booking and Planning easy
+On the final page "Jump" it is very easy to see options available to all and book a slot. The socials bar in the footer also contains the "Windy" app which is an app used all the time in the industry as the sport is so weather dependant. WhatsApp is also included in the socials bar in which a potential customer would be able to reach out to Skydive Blue Skies having any additional questions.
+
+###User friendly on all Devices
+Using media queries in CSS I have been able to make the home page profiles adjust as nav-bar hide when required using a media query of around 850px which is the small tablet size. Using flexbox properties to adapt to wider/smaller screens to break the content down into columns instead of a row-style layout.
+
