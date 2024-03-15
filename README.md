@@ -60,6 +60,20 @@ Using media queries in CSS I have been able to make the home page profiles adjus
 
 ### Colour Scheme
 
-![colours](assets/images/color-scheme.jpg)
-![hex-codes](assets/images/hex-values.jpg)
+![colours](assets/images/color-scheme.jpg)<br>
+![hex-codes](assets/images/hex-values.jpg)<br>
+
+I chose a blue and white colour scheme for my project as the title is Blue Skies Skydive, the pink colour contrasts well with both colours. 
+
+### Typography 
+
+I chose a google font for my project called Poppins, this is because of its simplicity on page and in setup. Below I have inserted an image of the font.
+
+![Image of typography from Google Fonts](assets/images/typography.JPG)<br>
+
+### Imagery 
+
+The imagery chosen in my home page was a group formation of skydivers which is impressive and would entice someone who is potentially interested to make the move. In the gallery section of the website I have used a mix of tandem skydive pictures and sports skydiving images, this is to hopefully attract a clientbase of all skill levels.
+
+### Wireframes
 
