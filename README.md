@@ -77,3 +77,36 @@ The imagery chosen in my home page was a group formation of skydivers which is i
 
 ### Wireframes
 
+### Home Page
+
+### Gallery
+
+### Jump Page 
+
+### Mobile View
+
+I used Balsamiq to create my Wireframes.
+
+## Features
+
+
+### General features of each page
+
+### Navbar
+
+The navbar I chose to use is similar to the one used in the Love Running page, I used media queries to turn the navbar options into a hamburger icon witha  toggle on smaller screens. The active page of the website the user is on is signified by an underline using CSS.
+
+![Desktop Navbar view](assets/images/DesktopPage.JPG)
+
+Desktop version of the navbar
+
+![Iphone SE Navbar view](assets/images/IphoneSEPage.JPG)
+
+Iphone SE navbar view, this was the smallest screen size available to me without going responsive and shrinking manually.
+
+### Footer with social media icons
+
+I added in 4 icons to the footer of my page, 3 of which are social media. One for WhatsApp where instant messaging to the team would take place, one for instagram where there would be a club account posting highlights and stories proving how active the club is or celebrating achievments, and thirdly, one for YouTube where a similar highlight reel would exist. Finally the last footer icon is for an app called windy, this is an app widely used in the industry and shows the wind in the current location as this sport is very dependant on weather. All icons were sourced from font-awesome, I used a grey colour for the icons as this looks clean in my opinion.
+
+![Footer icons](assets/images/Footer.JPG)
+
