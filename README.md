@@ -136,3 +136,7 @@ Gallery on iPhone SE view.
 The jump page has a background image of a tandem skydive, it also contains a form with a rgba value making the form slightly translucent. There are several radio buttons to choose from for different packages that are offered. The form requires an email, a first and last name to then be sent to a form dump when the book now button is pressed.
 
 ![Jump form](assets/images/Jumpform.JPG)
+
+### Future Implementations
+
+I would like to include a extra information button when hovered shows more information about the packages offered in the form, I have seen this done elsewhere and it looks great. Another implementation I would include is on the windy app I would set the place to be in the location of the airfield as this is the weather that matters.
