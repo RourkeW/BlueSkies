@@ -96,11 +96,11 @@ I used Balsamiq to create my Wireframes.
 
 The navbar I chose to use is similar to the one used in the Love Running page, I used media queries to turn the navbar options into a hamburger icon witha  toggle on smaller screens. The active page of the website the user is on is signified by an underline using CSS.
 
-![Desktop Navbar view](assets/images/DesktopPage.JPG)
+![Desktop Navbar view](assets/images/desktoppage.JPG)
 
 Desktop version of the navbar
 
-![Iphone SE Navbar view](assets/images/IphoneSEPage.JPG)
+![Iphone SE Navbar view](assets/images/iphonesepage.JPG)
 
 iPhone SE navbar view, this was the smallest screen size available to me without going responsive and shrinking manually.
 
@@ -108,7 +108,7 @@ iPhone SE navbar view, this was the smallest screen size available to me without
 
 I added in 4 icons to the footer of my page, 3 of which are social media. One for WhatsApp where instant messaging to the team would take place, one for instagram where there would be a club account posting highlights and stories proving how active the club is or celebrating achievments, and thirdly, one for YouTube where a similar highlight reel would exist. Finally the last footer icon is for an app called windy, this is an app widely used in the industry and shows the wind in the current location as this sport is very dependant on weather. All icons were sourced from font-awesome, I used a grey colour for the icons as this looks clean in my opinion.
 
-![Footer icons](assets/images/Footer.JPG)
+![Footer icons](assets/images/footer.JPG)
 
 
 ## Features by page
@@ -117,7 +117,7 @@ I added in 4 icons to the footer of my page, 3 of which are social media. One fo
 
 The home page includes a short explanation as to why a potential skydiver would want to jump with Skydive Blue Skies using the location of the beautiful Drakenstein mountain range combined with the high amount of experience the jump staff have. The home page also includes some character profiles of the Chief Instructor and a little bit about him as well as another member of staff who also holds a considerably high amount of jumps. This is to try and make the potential customer feel that they are in safe hands since the staff have spent their lives doing this. I have also included a PASA number which is the Parachute Association of South Africa ina  hyperlink for both profiles. Finally a map is included as the destination is remote since it is a skydiving opoeration and cannot take place without a remote airfield, this is to help clients get to the place without issues.
 
-![Home page](assets/images/Home.JPG)
+![Home page](assets/images/home.JPG)
 
 ### Gallery Page
 
@@ -135,7 +135,7 @@ Gallery on iPhone SE view.
 
 The jump page has a background image of a tandem skydive, it also contains a form with a rgba value making the form slightly translucent. There are several radio buttons to choose from for different packages that are offered. The form requires an email, a first and last name to then be sent to a form dump when the book now button is pressed.
 
-![Jump form](assets/images/Jumpform.JPG)
+![Jump form](assets/images/jumpform.JPG)
 
 
 ### Future Implementations
@@ -196,11 +196,24 @@ I deployed my page on git pages, using github I found my repository I wanted to 
 ### Jigsaw CSS Validator
 
 [Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the CSS code
-![Image proving no errors on Jigsaw](assets/images/validCSS.JPG) - Pass
+![Image proving no errors on Jigsaw](assets/images/validcss.JPG) - Pass
 
 ### W3C Validator
 
 [W3C](https://validator.w3.org/nu/) was used to validate the HTML on all pages of the website.
 
-![Image proving html is validated](assets/images/validHTML.JPG) - Pass
+![Image proving html is validated](assets/images/validhtml.JPG) - Pass
 
+### Wave Evaluation Tool
+
+I used a Chrome extension my Merntor told me about called Wave to evaluate to page. It has one error showing for the empty label because of the burger icon but this is how Code Institue wants you to do it for now. There are also some contrast flags however this does not effect the websites integrity I feel.
+
+### Home Page
+
+![Image showing Wave Evaluation Tool](assets/images/wave.JPG)
+
+### Gallery
+
+![Image showing Wave on Gallery Page](assets/images/wave-gallery.JPG)
+
+### Jump Page
