@@ -89,8 +89,6 @@ The imagery chosen in my home page was a group formation of skydivers which is i
 
 ![Jump Page Wireframe](assets/images/jumpwireframe.jpg)<br>
 
-### Mobile View
-
 I used Balsamiq to create my Wireframes.
 
 ## Features
