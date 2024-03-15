@@ -242,25 +242,49 @@ Additional testing over multiple screen sizes
 | --- | --- | --- | --- | --- |
 | `Navbar` |
 |  |  |  |  |  |
-| Mountain Magic Logo & Title | When clicked the user will be redirected to the home page. | Clicked Logo and title | Redirected to the home page. | Pass |
+| Blue Skies Skydive Logo and Title | When clicked the user will be redirected to the home page. | Clicked Logo and title | Redirected to the home page. | Pass |
 | Home Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the home page. | Pass |
-| Accomodation Link | When clicked the user will be redirected to the accomodation page. | Clicked link | Redirected to the accomodation page. | Pass |
-| Contact Link | When clicked the user will be redirected to the Contact page. | Clicked link | Redirected to the contact page | Pass |
+| Gallery | When clicked the user will be redirected to the Gallery page. | Clicked link | Redirected to the Gallery page. | Pass |
+| Jump Link | When clicked the user will be redirected to the Jump page. | Clicked link | Redirected to the Jump page | Pass |
 | --- | --- | --- | --- | --- |
 | `Footer` |
 |  |  |  |  |  |
-| Social Icons | When clicked the user will be redirected to the appropriate social media pages in a new window. | Clicked icon | Redirected to the social media page in a new window. | Pass |
+| Social Icons | When clicked the user will be redirected to the appropriate social media pages. | Clicked icon | Redirected to the social media page in a new window. | Pass |
 | --- | --- | --- | --- | --- |
 | `Home Page` |
 |   |   |   |   |
-| Youtube video | Video does not autoplay only when clicked does it play. | Clicked video  | Video plays | Pass |
-| --- | --- | --- | --- | --- |
-| `Accomodation Page` |
-|   |   |   |   |
-| Book here buttons | When clicked will open the airbnb site in a new window for the appropriate accomodation | Clicked on the buttons | Opened a new airbnb window for the appropriate accomodation | Pass |
-| Gallery responsiveness | When window resized gallery was responsive and site layout looked as expected | Resized window | Gallery was responsive and looks good | Pass |
-| --- | --- | --- | --- | --- |
-| `Contact Page` |
-|   |   |   |   |
 | Google Map | Map should be interactive when clicked on | Clicked on map | Map zoomed in and reacted as expected | Pass |
-| Contact form | When items were left out the was a message asking to fill the section in| Clicked submit while leaving form unfillled | Form requested sections to be filled in | Pass |
+| --- | --- | --- | --- | --- |
+| `Gallery Page` |
+|   |   |   |   |
+| Gallery responsiveness | When window resized gallery was responsive and resized column count appropriatly | Resized window/ changed device on devtools | Gallery was responsive | Pass |
+| --- | --- | --- | --- | --- |
+| `Jump Page` |
+|   |   |   |   |
+| Jump form | When items were left out the was a message asking to fill the section in| Clicked submit while leaving form unfillled | Form requested sections to be filled in | Pass |
+| Jump form | When items are filled in and Book now button is posted the code institute page| Entered information and pressed book now | Rediredted to page congratulating you that the information was submitted | Pass |
+| Jump form | email required | Entered a non email | was prompted that the entry has to be a valid email | Pass |
+
+## Credits
+
+### Code Used
+
+The navbar I used was from the Love Running walkthrough project. (https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
+
+Photo used for form background (https://unsplash.com)
+
+Jump form used from Code Institue Love Running walkthrough project to validate email. (https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
+
+### Content
+
+I wrote all content for this website, I did use the images of my uncle and a family friend who work in skydiving, I used their idea of the PASA number for proof of experience and legitimacy though this is also required.
+
+###  Media
+
+My Uncle owns and runs a skydiving club in South Africa and this was another reason to use this idea for my project as I use some of the package ideas for the form to make the website look realistic.
+
+The images used in the Blue Skies Skydiving project from my uncle were for the profile sections. Other images were found mostly on (https://unsplash.com)
+
+###  Acknowledgments
+
+I would like to thank my mentor Luke for his help quickly validating and giving me a source for some of my images.
