@@ -217,3 +217,50 @@ I used a Chrome extension my Merntor told me about called Wave to evaluate to pa
 ![Image showing Wave on Gallery Page](assets/images/wave-gallery.JPG)
 
 ### Jump Page
+
+![Image showing Wave on Jump Page](assets/images/wave-jump.JPG)
+
+
+### Full Testing
+
+Full testing was performed on the following devices:
+
+* Desktop:
+  * Windows 10 PX 
+* Mobile Devices :
+  * iPhone 13 PRO
+
+Each device tested the site using the following browsers:
+
+* Google Chrome
+* Safari
+* Opera GX
+
+Additional testing over multiple screen sizes
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| `Navbar` |
+|  |  |  |  |  |
+| Mountain Magic Logo & Title | When clicked the user will be redirected to the home page. | Clicked Logo and title | Redirected to the home page. | Pass |
+| Home Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the home page. | Pass |
+| Accomodation Link | When clicked the user will be redirected to the accomodation page. | Clicked link | Redirected to the accomodation page. | Pass |
+| Contact Link | When clicked the user will be redirected to the Contact page. | Clicked link | Redirected to the contact page | Pass |
+| --- | --- | --- | --- | --- |
+| `Footer` |
+|  |  |  |  |  |
+| Social Icons | When clicked the user will be redirected to the appropriate social media pages in a new window. | Clicked icon | Redirected to the social media page in a new window. | Pass |
+| --- | --- | --- | --- | --- |
+| `Home Page` |
+|   |   |   |   |
+| Youtube video | Video does not autoplay only when clicked does it play. | Clicked video  | Video plays | Pass |
+| --- | --- | --- | --- | --- |
+| `Accomodation Page` |
+|   |   |   |   |
+| Book here buttons | When clicked will open the airbnb site in a new window for the appropriate accomodation | Clicked on the buttons | Opened a new airbnb window for the appropriate accomodation | Pass |
+| Gallery responsiveness | When window resized gallery was responsive and site layout looked as expected | Resized window | Gallery was responsive and looks good | Pass |
+| --- | --- | --- | --- | --- |
+| `Contact Page` |
+|   |   |   |   |
+| Google Map | Map should be interactive when clicked on | Clicked on map | Map zoomed in and reacted as expected | Pass |
+| Contact form | When items were left out the was a message asking to fill the section in| Clicked submit while leaving form unfillled | Form requested sections to be filled in | Pass |
