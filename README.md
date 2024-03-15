@@ -102,7 +102,7 @@ Desktop version of the navbar
 
 ![Iphone SE Navbar view](assets/images/IphoneSEPage.JPG)
 
-Iphone SE navbar view, this was the smallest screen size available to me without going responsive and shrinking manually.
+iPhone SE navbar view, this was the smallest screen size available to me without going responsive and shrinking manually.
 
 ### Footer with social media icons
 
@@ -110,3 +110,29 @@ I added in 4 icons to the footer of my page, 3 of which are social media. One fo
 
 ![Footer icons](assets/images/Footer.JPG)
 
+
+## Features by page
+
+### Home Page
+
+The home page includes a short explanation as to why a potential skydiver would want to jump with Skydive Blue Skies using the location of the beautiful Drakenstein mountain range combined with the high amount of experience the jump staff have. The home page also includes some character profiles of the Chief Instructor and a little bit about him as well as another member of staff who also holds a considerably high amount of jumps. This is to try and make the potential customer feel that they are in safe hands since the staff have spent their lives doing this. I have also included a PASA number which is the Parachute Association of South Africa ina  hyperlink for both profiles. Finally a map is included as the destination is remote since it is a skydiving opoeration and cannot take place without a remote airfield, this is to help clients get to the place without issues.
+
+![Home page](assets/images/Home.JPG)
+
+### Gallery Page
+
+The gallery page features a masonry style group of images which is responsive on different devices, the column count changes when a device is smaller since the image needs to be visible, therefore on a mobile phone there is only one column with all photos. 
+
+![Gallery Desktop](assets/images/columndesktop.JPG)
+
+Gallery on desktop view
+
+![Gallery Mobile Phone](assets/images/columnmobile.JPG)
+
+Gallery on iPhone SE view.
+
+### Jump page
+
+The jump page has a background image of a tandem skydive, it also contains a form with a rgba value making the form slightly translucent. There are several radio buttons to choose from for different packages that are offered. The form requires an email, a first and last name to then be sent to a form dump when the book now button is pressed.
+
+![Jump form](assets/images/Jumpform.JPG)
