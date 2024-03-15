@@ -60,8 +60,8 @@ Using media queries in CSS I have been able to make the home page profiles adjus
 
 ### Colour Scheme
 
-![colours](assets/images/color-scheme.jpg)<br>
-![hex-codes](assets/images/hex-values.jpg)<br>
+![colours](assets/images/color-scheme.JPG)<br>
+![hex-codes](assets/images/hex-values.JPG)<br>
 
 I chose a blue and white colour scheme for my project as the title is Blue Skies Skydive, the pink colour contrasts well with both colours. 
 
