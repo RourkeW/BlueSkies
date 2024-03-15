@@ -79,9 +79,15 @@ The imagery chosen in my home page was a group formation of skydivers which is i
 
 ### Home Page
 
+![Home Page Wireframe](assets/images/homewireframe.jpg)<br>
+
 ### Gallery
 
+![Gallery Page Wireframe](assets/images/gallerywireframe.jpg)<br>
+
 ### Jump Page 
+
+![Jump Page Wireframe](assets/images/jumpwireframe.jpg)<br>
 
 ### Mobile View
 
