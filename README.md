@@ -137,6 +137,70 @@ The jump page has a background image of a tandem skydive, it also contains a for
 
 ![Jump form](assets/images/Jumpform.JPG)
 
+
 ### Future Implementations
 
 I would like to include a extra information button when hovered shows more information about the packages offered in the form, I have seen this done elsewhere and it looks great. Another implementation I would include is on the windy app I would set the place to be in the location of the airfield as this is the weather that matters.
+
+
+### Accessibility
+
+I have made use of aria-labels for screen readers and did the best I could to use semantic elements so that the page was easy to navigate and understand. I also added labels for all images. 
+
+## Technologies used
+
+**Github** - Used for storage of my site and for publishing online.\
+**GitPod** - The IDE used for editing my site and pushing changes.\
+**CSS** - CSS was used to style the website and define fonts and layout.\
+**Python** - Used python 3 via terminal to preview my site using a local http server.\
+**Google Maps** - Google maps embed from Google inc.\
+**Font Awesome** - Social Media icons from Font Awesome.\
+**Google Chrome** - The website was built and tested in google Chrome.\
+**Google Fonts** - Used to embed a different more attractive font. \
+
+
+### Languages Used
+
+HTML, CSS, Javascript
+
+### Frameworks, Libraries & Programs Used
+
+**Github** - I used GitHub for the storage of my site and Gitpages to pubish my website.\
+
+## Deployment & Local Development
+
+### Deployment
+
+I deployed my page on git pages, using github I found my repository I wanted to deploy and went to settings, I amde sure my source was set to 'Deploy from Branch', main branch is selected and Folder is set to / (root). Then under Branch I clicked Save, after a few minutes I went to environments and I went to 'github-pages'. On view deployment I saw that my site was live at https://rourkew.github.io/BlueSkies/
+
+### Local Development
+
+#### How to Clone
+
+1. Log onto GitHub.
+2. Go to the repository of the Blue Skies Project RourkeW/BlueSkies/
+3. Click the green code button and copy the preferred code link. 
+4. Open the terminal in your chosen code editor and change the working directory to the location desired for the clone directory.
+5. Type 'git clone' into the code terminal and paste the link from the green code button you copied earlier.
+
+#### How to Fork
+
+1. Log in to GitHub.
+2. Find the repository for the Blue Skies Project RourkeW/BlueSkies/
+3. Click Fork.
+
+## Testing
+
+## Manual Testing
+
+### Jigsaw CSS Validator
+
+[Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the CSS code
+![Image proving no errors on Jigsaw](assets/images/validCSS.JPG) - Pass
+
+### W3C Validator
+
+[W3C](https://validator.w3.org/nu/) was used to validate the HTML on all pages of the website.
+
+![Image proving html is validated](assets/images/validHTML.JPG) - Pass
+
